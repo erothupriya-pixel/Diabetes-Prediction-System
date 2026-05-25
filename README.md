@@ -29,8 +29,10 @@ Diabetes Dataset from Kaggle
 6. Predict Diabetes
 
 ## Output
-The system predicts whether a patient has diabetes based on health parameters.
 
+![Accuracy](screenshots/accuracy.png)
+
+![Graph](screenshots/graph1.png)
 ## Future Improvements
 - Streamlit Web App
 - Advanced ML Models
