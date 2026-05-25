@@ -30,9 +30,9 @@ Diabetes Dataset from Kaggle
 
 ## Output
 
-![Accuracy](screenshots/accuracy.png)
+![accurancy](screenshots/accuracy.png)
 
-![Graph](screenshots/graph1.png)
+![graph1](screenshots/graph1.png)
 ## Future Improvements
 - Streamlit Web App
 - Advanced ML Models
